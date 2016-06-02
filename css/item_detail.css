@@ -1,0 +1,68 @@
+#main_table{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+td>table{
+	width:100%;
+}
+#pic_container{
+	width: 350px;
+	height: 350px;
+	vertical-align: center;
+}
+#product_pic{
+	right: 10px;
+	width: 350px;
+	height: 350px;
+}
+#product_info{
+	top: 0px;
+	margin-left: 10px;
+}
+.col_header{
+	vertical-align: top;
+	width: 25%;
+	background-color: pink;
+	color: white;
+}
+#total_price{
+	font-size: 35px;
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:50px;
+}
+#order,#buy{
+	float:left;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:200px;
+}
+#order{
+	margin-left:70px;
+}
+#result{
+	text-align:center;
+	background-color:#FDD6D8;
+	border:solid 1px #c3c3c3;
+	display:none;
+	margin: 5px;
+}
+#related_item{
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.thumbnail{
+	width: 50px;
+	height: 50px;
+}
+#related_title{
+	padding: 10px;
+	font-size: 20px;
+}
+.rate_stars{
+	width:15px;
+	height: 15px;
+}

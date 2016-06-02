@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main_table{
+ 
+ /*center align*/
+ width: 90%;
+ margin-left: auto;
+ margin-right: auto;
+ /*change all font type*/
+}
+#main1_table{
+	
+	width: 90%;
+	margin-left: auto;
+ margin-right: auto;
+}
+
+#panelimages{
+	display:none;
+}
+#panelimages1{
+	display:none;
+}
+#panelimages2{
+	display:none;
+}
+#panelimages3{
+	display:none;
+}
+#panelimages4{
+	display:none;
+}

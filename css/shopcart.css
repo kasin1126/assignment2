@@ -1,0 +1,22 @@
+#casedetail
+{
+	font-family:"Lucida Console";
+	font-size: 12px;
+	border-color:#C8C8C8;
+	position: absolute;
+	height: 600px;
+	width: 550px;
+	top: 20px;
+	left: 20px;
+}
+
+#paymenttable
+{
+	font-size: 12px;
+}
+
+#title
+{
+	font-size: 17px;
+	font-weight:bold;
+}

@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+.sortitemlist.image .thumblist li, .sortitemlist.imageword .thumblist li {
+overflow: hidden;
+height: 176px;
+padding: 5px 0px !important;
+}
